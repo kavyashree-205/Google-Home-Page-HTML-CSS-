@@ -1,0 +1,158 @@
+* {
+  margin : 0px;
+  padding : 0;
+  box-sizing: border-box;
+}
+#title {
+
+  width : auto;
+  height : 90px;
+}
+.none li {
+  list-style-type : none;
+  float : right;
+  padding : 10px;
+  font-size : 13px;
+  font-family : arial;
+}
+.none a {
+	text-decoration : none;
+	color : black;
+	
+}
+.none a:hover {
+	text-decoration : underline;
+	color : #808080;
+	
+}
+#location {
+	padding-top : 9px;
+	padding-right : 22px;
+    position : static;	
+}
+#location1 {
+	padding-right : 0px;
+	padding-top : 20px;
+	position : static;
+}
+.location2 {
+	margin-top : 20px;
+	line-height : 1px;	
+}
+.main {
+	width : auto;
+	height : 250px;
+	margin-top : 80px;
+}
+div.main img {
+	padding-left : 792px;
+	padding-top : 15px;
+	position : fixed;
+}
+.search-bar {
+	width : 550px;
+	height : 44px;
+	margin-left : 690px;
+	margin-top : -100px;
+	position : fixed;
+	border : 1px solid #D3D3D3;
+	border-radius : 50px;
+	 
+}
+#microphone {
+     float : right;
+	 margin-top : 8px;
+	 margin-right : 15px;
+}
+#search {
+	float : left;
+	position : fixed;
+	margin-top : 13px;
+	margin-left : 15px;
+}
+#languages {
+	margin-top : 125px;
+	position : fixed;
+}
+.button1 {
+	border : none;
+	background-color : #F3F3F3;
+	cursor : pointer;
+	padding : 11px 17px;
+	color : rgba(34,34,34,0.8);
+	font-size : 14px;
+	position : fixed;
+	margin-left : 821px;
+	margin-top : -30px;
+	border-radius : 5px;
+}
+.button2 {
+	border : none;
+	background-color : #F3F3F3;
+	cursor : pointer;
+	padding : 11px 17px;
+	color : rgba(34,34,34,0.8);
+	font-size : 14px;
+	margin-left : 965px;
+	position : fixed;
+	margin-top : -30px;
+	border-radius : 5px;
+	
+}
+#foooter {
+	background-color : #F2F2F2;
+	width : auto;
+	height : 70px;
+	margin-top : 595px;
+}
+#sub-footer {
+	background-color : #F2F2F2;
+	width : auto;
+	height : 45px;
+	margin-top : -80px;
+	border : 1px solid rgba(34,34,34,0.2);
+}
+.left li{
+	list-style-type : none;
+	float : left;
+	margin-left : 16px;
+	margin-top : 35px; 
+	font-family : arial;
+	padding : 10px;
+	font-size : 14px;
+}
+.left a {
+		text-decoration : none;
+	    cursor : pointer;
+		color : rgba(0,0,0,0.7);
+}
+.left a:hover {
+	text-decoration : underline;
+}
+.right li {
+	list-style-type : none;
+	text-decoration : none;
+	float : right;
+	font-family : arial;
+	padding : 10px;
+	font-size:14px;
+	margin-top : 35px;
+	margin-right : 15px;
+}
+.right a {
+	text-decoration : none;
+	color : rgba(0,0,0,0.7);
+	cursor : pointer;
+}
+
+.right a:hover {
+	text-decoration : underline;
+	
+}
+
+
+
+
+
+
+
