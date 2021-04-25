@@ -7,4 +7,4 @@ Note : As this is not responsive, viewing in desktop or PC gives better experien
 
 This is a non responsive google homepage clone made with HTML and CSS. The links don’t go anywhere.
 
-[](GOOGLE-HOME-PAGE.png)
+![](GOOGLE-HOME-PAGE.png)
